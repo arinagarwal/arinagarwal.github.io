@@ -9,7 +9,7 @@ category: work
 
 Imagine this: you stumble upon a delectable recipe online, only to realize you're missing a crucial ingredient. Don't worry fellow foodie! With Ingredient Alchemy by your side, you'll discover a world of extraordinary ingredient substitutions that will turn your recipe mishaps into culinary triumphs.
 
-Just download the extension on the Google Chrome Store, go to any AllRecipes recipe, and watch the magic happen!
+Just download the extension <a href='https://chrome.google.com/webstore/detail/ingredient-alchemy/lkedikcfmdcabjfbfcjnlbaeoedobgjk'>here</a>, go to any AllRecipes recipe, and watch the magic happen!
 
 
 
