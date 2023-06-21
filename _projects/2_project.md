@@ -3,7 +3,7 @@ layout: page
 title: Muslim Student Association Website
 description: Helped make a website for the UW Muslim Studnet Association (MSA) as a part of DUBvelopers UW!
 img: assets/img/MSA_MOON.jpg
-importance: 3
+importance: 4
 category: work
 ---
 
